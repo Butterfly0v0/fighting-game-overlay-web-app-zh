@@ -3,7 +3,7 @@
 // @namespace    https://fighting-game-overlay.web.app/
 // @version      5.0.0
 // @description  自动加载含中文支持的修改版脚本，并修正中文字体显示
-// @author       You
+// @author       Butterfly0v0
 // @match        https://fighting-game-overlay.web.app/*
 // @run-at       document-end
 // @grant        GM_xmlhttpRequest
